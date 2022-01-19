@@ -46,3 +46,4 @@ print(a)
 # plt.show()
 # kn.predict([[30,600]])
 
+# 요 부분이 추가 되었다. 
